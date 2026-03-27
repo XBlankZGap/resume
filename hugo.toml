@@ -3,7 +3,6 @@ languageCode = 'en-us'
 title = "Sophy's Professional Resume"
 theme = 'PaperMod'
 
-[params]
-    homeInfoParams:
-        Title: "Sophy | Security Researcher & Developer"
-        Content: "Specializing in Infrastructure Vulnerability Assessment, SEO Auditing, and Full-Stack Development."
+[params.homeInfoParams]
+    title = "Sophy | Security Researcher & Developer"
+    content = "Specializing in Infrastructure Vulnerability Assessment, SEO Auditing, and Full-Stack Development."
